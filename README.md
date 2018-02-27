@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/120963693.svg)](https://zenodo.org/badge/latestdoi/120963693)
+
 Cooling Protocol Reproducible Analysis
 ================
 Crystal Coolbaugh
